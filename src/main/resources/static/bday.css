@@ -1,0 +1,21 @@
+body {
+    background-image: url("https://photos.app.goo.gl/e6auAay7a3SJFbYF7");
+}
+
+#birthdaySong {
+    width: 600px;
+    height: 600px;
+    display: inline-block;
+    margin-left: 30%;
+    margin-top: 10px;
+}
+
+h1 {
+    text-align: center;
+    font-style: italic;
+    font-weight: 900;
+}
+
+button {
+    margin-left: 45%;
+}
