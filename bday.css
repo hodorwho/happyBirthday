@@ -1,13 +1,15 @@
 body {
-    background: darkolivegreen;
-    background-image: url("https://photos.app.goo.gl/e6auAay7a3SJFbYF7");
+    /*background: darkolivegreen; */
+    background-image: url("https://lh3.googleusercontent.com/FHnNK2CpxiRIy33yQeS-uo5OXpsnFJD0vjZNaO3m9LHRSjg0yUoFgNDTwdMnKphdYeLHnHdxkR4rL31mHhN1xYBcx9oCfvKHs4Ys3iIKMpZ8nf_NqJpwqwrFZ23yFVRXUb78rBPeziY=w2400");
+    background-size: contain;
+    background-repeat: initial;
 }
 
 #birthdaySong {
-    width: 600px;
-    height: 600px;
-    display: inline-block;
-    margin-left: 30%;
+    width: 1180px;
+    height: 630px;
+   display: inline-block;
+    margin-left: 10%;
     margin-top: 10px;
 }
 
@@ -15,8 +17,21 @@ h1 {
     text-align: center;
     font-style: italic;
     font-weight: 900;
+    font-size: 80px;
+    text-shadow: 2px 0 0 #fff, -2px 0 0 #fff, 0 2px 0 #fff, 0 -2px 0 #fff, 1px 1px #fff, -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff;
 }
 
 button {
     margin-left: 45%;
+    color: black;
+    border-color: black;
+    border-style: solid;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 600;
+    border-radius: 6px;
+    background-color: greenyellow;
+    border-width: medium;
+    padding: 15px 15px;
+
 }
